@@ -125,6 +125,7 @@ app.delete("/students/:sno",(req,res)=>{
         });
 
 });
+
 //Server to listen of port number 3000
 app.listen(3000,()=>{
 
